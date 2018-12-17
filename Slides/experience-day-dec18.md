@@ -81,7 +81,7 @@ In many (but not all) cases, it is...
 
 # Text-oriented audio programming languages
 
-Example -- SuperCollider
+Example -- note choice in SuperCollider
 
 ![right](https://i.ytimg.com/vi/9bc2buq9c2k/maxresdefault.jpg)
 
@@ -89,13 +89,21 @@ Example -- SuperCollider
 
 # Graphical audio programming languages
 
-Example - Pure Data
+Example - footstep switching in Pure Data
 
 ![right](https://upload.wikimedia.org/wikipedia/commons/c/cd/PureData-Harvie-Examples.png)
 
 ---
 
-## Adjacent uses of similar technology
+![fit](images/freesound.png)
+
+----
+
+![fit](images/logic.png)
+
+---
+
+## Adjacent uses of technology
 
 ![](https://9to5mac.com/wp-content/uploads/sites/6/2018/02/chromaverb-logic-pros-hero.png?w=1600)
 
@@ -125,7 +133,14 @@ Example - Pure Data
 
 ### How does this fit with the University of Wolverhampton?
 
+![](https://www.wlv.ac.uk/media/departments/faculty-of-arts/images/performing-arts/Mixing-desk.jpg)
+
 ---
 
-![fit](images/fourareas.png)
+![180%](images/fourareas.png)
 
+---
+
+Thanks!
+
+Any questions or comments -- please send them to <matt.bellingham@wlv.ac.uk>
