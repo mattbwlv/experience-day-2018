@@ -1,8 +1,15 @@
-## Welcome to **Music Technology** at the University of Wolverhampton
+# Welcome to **Music Technology**
+
+![](https://www.wlv.ac.uk/media/departments/faculty-of-arts/images/performing-arts/Mixing-desk.jpg)
+
+----
+
+# [tinyurl.com/wlv2018](https://tinyurl.com/wlv2018)
 
 ![](https://www.wlv.ac.uk/media/departments/faculty-of-arts/images/performing-arts/Mixing-desk.jpg)
 
 ---
+
 
 ### The topic for today - where are we?
 
