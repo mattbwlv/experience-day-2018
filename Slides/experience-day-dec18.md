@@ -107,6 +107,10 @@ Example - Pure Data
 
 ---
 
+![400%](images/s4.png)
+
+---
+
 # Algorithmic playback
 
 ![right](https://cnet4.cbsistatic.com/img/D96EvMw5aIGTh5KF7GHCRToT8X4=/2015/06/12/2faa0cb9-1d63-49ac-9fac-999e645d9122/tempo-music.jpg)
