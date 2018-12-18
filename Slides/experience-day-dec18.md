@@ -15,6 +15,57 @@
 
 ![120%](images/venn.png)
 
+----
+
+![180%](images/fourareas.png)
+
+---
+
+# Audio Production
+
+![right](images/desk.jpg)
+
+Audio engineering, mixdown, mastering, live sound, software use and development.
+
+---
+
+# Creative Computing
+
+![right](images/pd.png)
+
+The use of DAWs such as Logic Pro and Pro Tools for audio production.
+The use of audio programming languages such as SuperCollider and Pure Data for synthesis, video game sound and musical interface design.
+
+*No programming experience necessary!*
+
+---
+
+# Research and Theory
+
+![right](images/equal.png)
+
+Music, acoustic, and computer science theory.
+
+Research techniques, academic writing.
+
+---
+
+# Employability
+
+![right](images/AWS948_University_of_Wolverhampton_3_large.jpg)
+
+Work experience opportunities, networking and event organisation.
+
+---
+
+# Professional Engagement
+
+![right](images/ryan-dwane-undergraduate-student-using-mixing-desk.jpg)
+
+Both courses have deep links with industry and a clear focus on employment.
+
+The [University of Wolverhampton BA(Hons) Music Technology](http://www.jamesonline.org.uk/accreditation/wolverhampton/) course is accredited by [JAMES (Joint Audio Media Education Support)](http://www.jamesonline.org.uk/).
+
 ---
 
 ![120%](images/venn.png)
